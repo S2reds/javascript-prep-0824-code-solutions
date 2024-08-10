@@ -13,7 +13,7 @@ Answer the following questions in the provided markdown file before turning in t
 - What data type is returned by comparing two values (`<`, `>`, `===`, etc)?
   It returns a boolean datatype
 - What does the `+=` "plus-equals" operator do?
-  It is the addition assignment operator and it adds the left operand to the right operand
+  It is the addition assignment operator and it adds the left operand to the right operand then assigns the result back to the initial variable
 
 ## Notes
 
